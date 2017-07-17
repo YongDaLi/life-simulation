@@ -28,11 +28,18 @@ Food Expiration Rate: after n generations, the food square has a 50% chance of d
 *prey and predators have hunger counters. Moving decreases the counter and eating increases the counter*
 
 Food Energy: amount the prey's hunger counter increases from prey eating 1 food square
+
 Prey Hunger: value of the hunger counter that prey start off with
+
 Food Required for Prey Reproduction: Prey must have n hunger or greater to create a new prey animal
+
 Prey Reproduction Period: wait time for prey before they can reproduce again
 
+
 Prey Energy: amount the predator's hunger counter increases from predator eating 1 prey square
+
 Predator Hunger: value of the hunger counter that predators start off with
+
 Food Required for Predator Reproduction: predators must have n hunger or greater to create a new predator animal
+
 Predator Reproduction Period: wait time for predators before they can reproduce again
