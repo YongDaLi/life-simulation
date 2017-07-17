@@ -20,10 +20,13 @@ Start/stop/incremement actions are located at the top right.
 Preloaded ecosystems can be selected from the dropdown menu directly below the start/stop/increment. Select the ecosystem and press load.
 
 Variable explanation
+
+
 Food Spawn Rate: each square has n% chance of spawning food
 Food Expiration Rate: after n generations, the food square has a 50% chance of disappearing
 
 *prey and predators have hunger counters. Moving decreases the counter and eating increases the counter*
+
 Food Energy: amount the prey's hunger counter increases from prey eating 1 food square
 Prey Hunger: value of the hunger counter that prey start off with
 Food Required for Prey Reproduction: Prey must have n hunger or greater to create a new prey animal
