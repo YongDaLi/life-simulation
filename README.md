@@ -1,7 +1,9 @@
 # life-simulation
 Predator-Prey relationships
 
-Run BalancedEcosystem
+Download all files into one file.
+
+Run BalancedEcosystemGUI
 
 Press "Start". Select "Default" and press "G0!" if it is the first time.
 It will open 2 windows: one for variable control and one for the actual simulation.
